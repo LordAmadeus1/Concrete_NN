@@ -38,7 +38,7 @@ Concrete_NN/
 
 ## Results
 
-- **Validation MSE**: [Insert your validation MSE here]
+- **Validation MSE**: Mean = 43.48, Std = 0.00
 - **Observations**:
   - The model achieves good generalization on the validation dataset.
   - Further improvements can be made by tuning hyperparameters or using feature engineering.
