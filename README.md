@@ -13,6 +13,8 @@ Concrete_NN/
 
 │   └── concrete_data.csv
 
+├── requirements.txt
+
 └── README.md
 
 ## Model Architecture
