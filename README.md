@@ -53,6 +53,22 @@ Concrete_NN/
    git clone https://github.com/LordAmadeus1/Concrete_NN.git
    cd Concrete_NN
 
-2. **Run the notebook:**
-   jupyter notebook notebooks/Regression_NN.ipynb
+2. **Install the required dependences:**
+
+     ```bash
+     pip install -r requirements.txt
+     
+3. **Open the notebook:**
+   
+     Launch notebooks/Regression_NN.ipynb in Google Colab or a local Jupyter environment.
+
+   Run each cell sequentially to:
+    
+    Load and preprocess the concrete strength dataset.
+    
+    Build and compile a Neural Network regression model using TensorFlow.
+    
+    Train the model and visualize its performance metrics.
+    
+    Evaluate the model on test data and analyze the prediction errors
    
